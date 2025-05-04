@@ -1,0 +1,5 @@
+notebook
+opencv-python
+torch==1.8.0
+numpy==1.19.4
+
